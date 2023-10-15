@@ -3,8 +3,8 @@ Modified Line 10
 Modified Line 11
 KOINOT firstFile 4
 KOINOT firstFile 5
-KOINOT firstFile 6
-KOINOT firstFile 7
+Modified Line 10
+Modified Line 11
 KOINOT firstFile 8
 KOINOT firstFile 9
 KOINOT firstFile 10
