@@ -1,6 +1,6 @@
 KOINOT firstFile 1
-Modified Line 10
-Modified Line 11
+clone update Modified Line 10
+clone update Modified Line 11
 KOINOT firstFile 4
 KOINOT firstFile 5
 Modified Line 10
