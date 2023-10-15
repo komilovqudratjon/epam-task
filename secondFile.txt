@@ -5,6 +5,6 @@ KOINOT secondFile 4
 KOINOT secondFile 5
 KOINOT secondFile 6
 KOINOT secondFile 7
-KOINOT secondFile 8
-KOINOT secondFile 9
+update Modified git_2 7
+update Modified git_2 8
 KOINOT secondFile 10
