@@ -7,4 +7,6 @@ KOINOT secondFile 6
 KOINOT secondFile 7
 update Modified git_1 7
 update Modified git_1 8
+update Modified git_2 7
+update Modified git_2 8
 KOINOT secondFile 10
